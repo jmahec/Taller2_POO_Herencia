@@ -1,1 +1,1 @@
-# Taller2_POO-_Herencia
+# Taller2_POO_Herencia
